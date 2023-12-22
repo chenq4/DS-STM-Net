@@ -1,0 +1,122 @@
+absl-py==1.4.0
+addict==2.4.0
+albumentations==1.2.1
+anykeystore==0.2
+apex==0.9.10.dev0
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+async-generator==1.10
+attrs==22.2.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach==4.1.0
+certifi==2021.5.30
+cffi==1.15.1
+charset-normalizer==2.0.12
+comm==0.1.4
+contextlib2==21.6.0
+cryptacular==1.6.2
+cycler==0.11.0
+dataclasses==0.8
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml==0.7.1
+einops==0.4.1
+entrypoints==0.3
+greenlet==2.0.2
+hupper==1.10.3
+idna==3.4
+imageio==2.15.0
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.8.0
+jedi==0.17.0
+Jinja2==3.0.3
+joblib==1.1.1
+jsonschema==3.2.0
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1633420100582/work
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.1.5
+kiwisolver==1.3.1
+MarkupSafe==2.0.1
+matplotlib==3.3.4
+mistune==0.8.4
+ml-collections==0.1.1
+mmcv-full==1.2.7
+nbclient==0.5.9
+nbconvert==6.0.7
+nbformat==5.1.3
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+networkx==2.5.1
+notebook==6.4.10
+numpy==1.19.5
+oauthlib==3.2.2
+opencv-python==4.1.2.30
+opencv-python-headless==4.7.0.72
+packaging==21.3
+pandas==1.1.5
+pandocfilters==1.5.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+PasteDeploy==2.1.1
+pbkdf2==1.3
+perceptual==0.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.4.0
+plaster==1.0
+plaster-pastedeploy==0.7
+prometheus-client==0.17.1
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycparser==2.21
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyparsing==3.0.9
+pyramid==2.0.2
+pyramid-mailer==0.15.1
+pyrsistent==0.18.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python3-openid==3.2.0
+pytz==2022.7.1
+PyWavelets==1.1.1
+PyYAML==6.0
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628268400816/work
+qudida==0.0.4
+repoze.sendmail==4.4.1
+requests==2.27.1
+requests-oauthlib==1.3.1
+scikit-image==0.17.2
+scikit-learn==0.24.2
+scipy==1.5.4
+Send2Trash==1.8.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+SQLAlchemy==1.4.50
+terminado==0.12.1
+testpath==0.6.0
+threadpoolctl==3.1.0
+tifffile==2020.9.3
+timm==0.3.2
+torch==1.7.1
+torchsummary==1.5.1
+torchvision==0.8.2
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+tqdm==4.64.1
+traitlets @ file:///tmp/build/80754af9/traitlets_1632746497744/work
+transaction==3.1.0
+translationstring==1.4
+typing_extensions==4.0.0
+urllib3==1.26.18
+velruse==1.1.1
+venusian==3.0.0
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+WebOb==1.8.7
+widgetsnbextension==3.6.5
+WTForms==3.0.0
+wtforms-recaptcha==0.3.2
+yapf==0.31.0
+zipp==3.6.0
+zope.deprecation==4.4.0
+zope.interface==5.5.2
+zope.sqlalchemy==1.6
