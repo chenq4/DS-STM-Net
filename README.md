@@ -1,4 +1,4 @@
-# DS&STm Net
+# DS&STM-Net
 
 Official Pytorch Code base for [DS&STM-Net: A Novel Hybrid Network of Feature Mutual Fusion for Medical Image Segmentation]
 
