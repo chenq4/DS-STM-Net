@@ -5,7 +5,7 @@ Official Pytorch Code base for [DS&STM-Net: A Novel Hybrid Network of Feature Mu
 [project](https://github.com/chenq4/DS-STM-Net)
 
 
-##Introduction
+## Introduction
 
 Medical image segmentation can effectively help doctors diagnose diseases faster in clinical medicine. In recent years, network models based on U-Net have performed well. With the research of Transformer and MLP in computer vision, it can better compensate for some shortcomings in UNet, enabling sufficient information exchange for input elements. In this paper, we are the first to propose the so-called DS&STM-Net, a novel hybrid network of feature mutual fusion via diagonal shifted MLP and Swin Transformer. DS&STM-Net is a parallel encoder to obtain the mutual features, one is the branch serialized by CNN and Diagonal Shifted MLP (DS-MLP), and the other is the Swin Transformer. In addition, a well-designed Feature Mutual Fusion (FMF) Module is proposed to fuse features from the two branches. Finally, we use DS-MLP as a decoder to better utilize its performance in long-distance dependencies. Furthermore, skip connections are used in different layers to provide multi-scale features for enhancing the final performance. We test DS&STM-Net on ISIC 2018 and BUSI datasets, which achieves better performance over state-of-the-art medical image segmentation architectures. 
 
