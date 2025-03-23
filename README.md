@@ -11,7 +11,7 @@ Medical image segmentation can effectively help doctors diagnose diseases faster
 
 ## 1. Environment
 
-- Please prepare an enviroment with Python 3.6 and PyTorch 1.7.1.
+- Please prepare an environment with Python 3.6 and PyTorch 1.7.1.
 
 - Clone this repository:
 
@@ -20,7 +20,7 @@ git clone https://github.com/chenq4/DS-STM-Net
 cd DS-STM-Net
 ```
 
-To intall all the dependencies using pip:
+To install all the dependencies using pip:
 ```bash
 pip install -r requirements.txt
 conda activate DS-STM-Net
